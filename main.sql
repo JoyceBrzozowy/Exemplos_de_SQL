@@ -1,5 +1,5 @@
---Sintaxe básica de SQL
 
+--Sintaxe básica de SQL
 use fcc_sql_guides_database; -- seleciona o banco de dados da amostra, chamado fcc_sql_guides
 
 --Instruções SELECT e FROM
